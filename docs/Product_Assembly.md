@@ -152,6 +152,8 @@ Assemble the fan.
 
 ![3_50](media/3_50.png)
 
+Use plastic ties to secure the motor.
+
 ![3_51](media/3_51.png)
 
 **Step 11**
@@ -212,7 +214,6 @@ The relay module is connected to the IO5 port,  the red wire of the water pump i
 
 ![3_69](media/3_69.png)
 
-
 The XHT11 temperature and humidity sensor is connected to the IO9 port of the motherboard.
 ![3_70](media/3_70.png)
 
@@ -232,15 +233,16 @@ The soil sensor is connected to A6 port and the water level sensor is connected 
 The solar UV sensor is connected to A3 port, the five AD key module is connected to A2 port of the motherboard.
 ![3_74](media/3_74.png)
 
-
 The photoresistor is connected to the A0 port of the motherboard.
 ![2302](media/2302.png)
 
 The LCD1602 display is connected to the motherboard.
 
-![3_75](media/3_75.png)
+![3_75](media/3_741.png)
 
 **Step 14**
+
+![3_75](media/3_75.png)
 
 ![3_76](media/3_76.png)
 
@@ -297,8 +299,6 @@ Place the plastic box first, then assemble the water wheel.
 
 ![3_99](media/3_99.png)
 
-![3_100](media/3_100.png)
-
 Then install the battery.
 
 ![3_103](media/3_103.jpg)
@@ -306,12 +306,11 @@ Then install the battery.
 ![3_104](media/3_104.jpg)
 
 Place the battery holder first, then assemble the latch. 
-![3_101](media/3_101.png)
+
+![3_100](media/3_100.png)![3_101](media/3_101.png)
 
 ![3_105](media/3_105.jpg)
 
 ![3_106](media/3_106.jpg)
-
-![3_102](media/3_102.png)
 
 Complete
