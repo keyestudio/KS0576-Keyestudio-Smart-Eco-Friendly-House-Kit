@@ -83,7 +83,7 @@ The keyes trademark and logo are the copyright of KEYES DIY ROBOT co.,LTD. All p
 | 35   | ![screwdriver](media/screwdriver.png)     | Phillips Screwdriver           | 1      |
 | 36   | ![screwdriver2](media/screwdriver2.png)   | Slotted Screwdriver           | 1      |
 | 37   | ![Cross                                                                                                                                                                                                                                                                                     wrench](media/Crosswrench.png)   | Wrench         | 1      |
-| 38 | ![plastic_strapping](media/plastic_strapping.jpg) | Plastic String | 1 |
+| 38 | ![plastic_strapping](media/plastic_strapping.jpg) | Plastic String | 2 |
 | 39 | ![Tube](media/Tube.jpg) | Tube | 1 |
 
 

@@ -1774,8 +1774,6 @@ After the code is uploaded successfully, open the serial monitor and set the bau
 [Product_Assembly](../Product_Assembly.md)
 
 
-
-
 ---
 
 ## 5. Projects
@@ -1804,8 +1802,6 @@ The photosensitive module detects the ambient light value and the PIR motion sen
 ![4103](media/4103.png)
 
 #### Test Code
-
-The code file 4.1Energy-efficient_Lighting.ino is provided in *5. Resources*, please download it.
 
 ```c++
 /*  
@@ -2524,6 +2520,8 @@ After the code is uploaded successfully, real-time temperature, humidity, light 
 Solar panels convert sunlight into electricity, which can be used for multiple applications, such as powering outdoor lighting, charging mobile devices, or even as a backup power source for a home or business. By combining the power of the sun with the flexibility of Arduino, users are capable of creating complex and efficient solar power systems based on their specific needs.
 
 The product welds a solar panel and a motor into a single unit, and utilizes the power converted from the sun to drive the motor.
+
+<span style="color: rgb(255, 50, 50);">**Note: This solar board needs to be used in a sunny environment, otherwise it will not be able to show the effect.**</span>
 
 
 ![4401](media/4401.png)

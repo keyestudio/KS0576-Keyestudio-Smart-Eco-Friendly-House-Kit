@@ -1521,6 +1521,8 @@ Solar panels convert sunlight into electricity, which can be used for multiple a
 
 The product welds a solar panel and a motor into a single unit, and utilizes the power converted from the sun to drive the motor.
 
+<span style="color: rgb(255, 50, 50);">**Note: This solar board needs to be used in a sunny environment, otherwise it will not be able to show the effect.**</span>
+
 ![4401](media/4401.png)
 
 
