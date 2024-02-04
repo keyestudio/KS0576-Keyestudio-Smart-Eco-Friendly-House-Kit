@@ -299,7 +299,7 @@ Place the plastic box first, then assemble the water wheel.
 
 ![3_99](media/3_99.png)
 
-Then install the battery.
+Then assemble 6 AA batteries as shown below（mind the positive and negative poles）.
 
 ![3_103](media/3_103.jpg)
 

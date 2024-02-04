@@ -122,7 +122,7 @@ The pixel point adopts the automatic shaping and forwarding technology, so that 
 
 <span style="background:#ff0;color:#000">In this tutorial, we use Arduino IDE version 2.1.1.</span>
 
-The code file 3.1Light_on.ino is provided in *2. Download code*, please download it.
+The code file 3.1Light_on.ino can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ```c#
 /*  
@@ -260,7 +260,7 @@ When  infrared signal is received, and pin 1 of the sensor outputs a high level.
 
 <span style="background:#ff0;color:#000">In this tutorial, we use Arduino IDE version 2.1.1.</span>
 
-The code file 3.2PIR_motion.ino is provided in *2. Download code*, please download it.
+The code file 3.2PIR_motion.ino can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ```c++
 /*  
@@ -478,7 +478,7 @@ When there is no light, the signal end of the photoresistor detects a voltage cl
 
 <span style="background:#ff0;color:#000">In this tutorial, we use Arduino IDE version 2.1.1.</span>
 
-The code file 3.3Photoresistance.ino is provided in *2. Download code*, please download it.
+The code file 3.3Photoresistance.ino can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ```c++
 /*  
@@ -593,6 +593,10 @@ Data format: 8bit humidity integer data + 8bit humidity decimal data + 8bit temp
 
 #### Test Code
 
+<span style="background:#ff0;color:#000">In this tutorial, we use Arduino IDE version 2.1.1.</span>
+
+The code file 3.4XHT11.ino can be downloaded in the directory *Download Code*, please download it by yourself.
+
 ```c++
 /*  
  * Filename    : XHT11
@@ -706,6 +710,10 @@ The LCD1602 display requires at least seven IO ports to drive up, occupying too 
 
 #### Test Code
 
+<span style="background:#ff0;color:#000">In this tutorial, we use Arduino IDE version 2.1.1.</span>
+
+The code file 3.5LCD.ino can be downloaded in the directory *Download Code*, please download it by yourself.
+
 ```c++
 /*  
  * Filename    : LCD
@@ -813,6 +821,10 @@ When the key SW5 is pressed, the signal OUT terminal voltage we read is the volt
 
 
 #### Test Code
+
+<span style="background:#ff0;color:#000">In this tutorial, we use Arduino IDE version 2.1.1.</span>
+
+The code file 3.6AD_Key.ino can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ```c++
 /*  
@@ -925,6 +937,10 @@ Its hardware control circuit of the sensor is buried in the root of the crop to 
 
 #### Test Code
 
+<span style="background:#ff0;color:#000">In this tutorial, we use Arduino IDE version 2.1.1.</span>
+
+The code file 3.7Soil_Humidity_Sensor.ino can be downloaded in the directory *Download Code*, please download it by yourself.
+
 ```c++
 /*  
  * Filename    : Soil_Humidity_Sensor
@@ -1026,6 +1042,10 @@ It mainly utilizes the principle of current amplification of the triode: when th
 
 
 #### Test Code
+
+<span style="background:#ff0;color:#000">In this tutorial, we use Arduino IDE version 2.1.1.</span>
+
+The code file 3.8Water_Level_Sensor.ino can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ```c++
 /*  
@@ -1131,6 +1151,10 @@ The relay, compatible with multiple microcontroller control boards, is an "autom
 
 
 #### Test Code
+
+<span style="background:#ff0;color:#000">In this tutorial, we use Arduino IDE version 2.1.1.</span>
+
+The code file 3.9Relay.ino can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ```c++
 /*  
@@ -1346,6 +1370,10 @@ To drive a passive buzzer with a square wave of 200 to 5000 Hz, the Hz of the sq
 
 #### Test Code
 
+<span style="background:#ff0;color:#000">In this tutorial, we use Arduino IDE version 2.1.1.</span>
+
+The code file 3.11Passive_buzzer.ino can be downloaded in the directory *Download Code*, please download it by yourself.
+
 ```c++
 /*  
  * Filename    : Passive_buzzer
@@ -1441,6 +1469,10 @@ The ultraviolet sensor utilizes a photosensitive element to convert the UV signa
 
 
 #### Test Code
+
+<span style="background:#ff0;color:#000">In this tutorial, we use Arduino IDE version 2.1.1.</span>
+
+The code file 3.12Ultraviolet.ino can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ```c++
 /*  
@@ -1803,6 +1835,10 @@ The photosensitive module detects the ambient light value and the PIR motion sen
 
 #### Test Code
 
+<span style="background:#ff0;color:#000">In this tutorial, we use Arduino IDE version 2.1.1.</span>
+
+The code file 5.1Energy_efficient_Lighting.ino can be downloaded in the directory *Download Code*, please download it by yourself.
+
 ```c++
 /*  
  * Filename    : Energy_efficient_Lighting
@@ -2018,6 +2054,10 @@ In this project, we are going to make a simple plant light. Turn on the visible 
 
 
 #### Test Code
+
+<span style="background:#ff0;color:#000">In this tutorial, we use Arduino IDE version 2.1.1.</span>
+
+The code file 5.2Plant_Light.ino can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ```c++
 /*  
@@ -2395,6 +2435,10 @@ Greenhouse is a frequently used production method in recent modern agriculture, 
 
 #### Test Code
 
+<span style="background:#ff0;color:#000">In this tutorial, we use Arduino IDE version 2.1.1.</span>
+
+The code file 5.3Environmental_monitoring.ino can be downloaded in the directory *Download Code*, please download it by yourself.
+
 ```c++
 /*  
  * Filename    : Environmental_monitoring
@@ -2661,6 +2705,10 @@ Monitoring the water level in a reservoir is important in agricultural automatio
 
 #### Test Code
 
+<span style="background:#ff0;color:#000">In this tutorial, we use Arduino IDE version 2.1.1.</span>
+
+The code file 5.5Water_level_monitoring.ino can be downloaded in the directory *Download Code*, please download it by yourself.
+
 
 ```c++
 /*  
@@ -2758,6 +2806,10 @@ The realization of soil moisture monitoring technology is crucial in the realiza
 
 
 #### Test Code
+
+<span style="background:#ff0;color:#000">In this tutorial, we use Arduino IDE version 2.1.1.</span>
+
+The code file 5.6Soil_humidity_monitor.ino can be downloaded in the directory *Download Code*, please download it by yourself.
 
 
 ```c++
@@ -2857,6 +2909,10 @@ Now, let's design a simple irrigation system!
 
 
 #### Test Code
+
+<span style="background:#ff0;color:#000">In this tutorial, we use Arduino IDE version 2.1.1.</span>
+
+The code file 5.7Irrigation_system.ino can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ```c++
 /*  
@@ -3044,6 +3100,10 @@ Water in the water wheel pool returns to the reservoir.
 
 #### Test Code
 
+<span style="background:#ff0;color:#000">In this tutorial, we use Arduino IDE version 2.1.1.</span>
+
+The code file 5.8Driving_water_wheel.ino can be downloaded in the directory *Download Code*, please download it by yourself.
+
 ```c++
 /*  
  * Filename    : Driving_water_wheel
@@ -3119,6 +3179,10 @@ In this project, we will combine the previous projects to make an  integrated pr
 
 
 #### Test Code
+
+<span style="background:#ff0;color:#000">In this tutorial, we use Arduino IDE version 2.1.1.</span>
+
+The code file 5.9Comprehensive_experiment.ino can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ```c++
 /*  

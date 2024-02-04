@@ -145,7 +145,7 @@ The pixel point adopts the automatic shaping and forwarding technology, so that 
 
 <span style="background:#ff0;color:#000">In this tutorial, we use KidsBlock Desktop version 2.0.1</span>
 
-The code file 3.1Light_on.sb3 is provided in *2. Download code*, please download it.
+The code file 3.1Light_on.sb3 can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ![2105](media/2105.png)
 
@@ -278,7 +278,7 @@ When  infrared signal is received, and pin 1 of the sensor outputs a high level.
 
 <span style="background:#ff0;color:#000">In this tutorial, we use KidsBlock Desktop version 2.0.1</span>
 
-The code file 3.2PIR_motion.sb3 is provided in *2. Download code*, please download it.
+The code file 3.2PIR_motion.sb3 can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ![2203](media/2203.png)
 
@@ -438,7 +438,7 @@ When there is no light, the signal end of the photoresistor detects a voltage cl
 
 <span style="background:#ff0;color:#000">In this tutorial, we use KidsBlock Desktop version 2.0.1</span>
 
-The code file 3.3Photoresistance.sb3 is provided in *2. Download code*, please download it.
+The code file 3.3Photoresistance.sb3 can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ![2303](media/2303.png)
 
@@ -535,7 +535,7 @@ Data format: 8bit humidity integer data + 8bit humidity decimal data + 8bit temp
 
 <span style="background:#ff0;color:#000">In this tutorial, we use KidsBlock Desktop version 2.0.1</span>
 
-The code file 3.4XHT11.sb3 is provided in *2. Download code*, please download it.
+The code file 3.4XHT11.sb3  can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ![2403](media/2403.png)
 
@@ -632,7 +632,7 @@ The LCD1602 display requires at least seven IO ports to drive up, occupying too 
 
 <span style="background:#ff0;color:#000">In this tutorial, we use KidsBlock Desktop version 2.0.1</span>
 
-The code file 3.5LCD.sb3 is provided in *2. Download code*, please download it.
+The code file 3.5LCD.sb3  can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ![2503](media/2503.png)
 
@@ -722,7 +722,7 @@ When the key SW5 is pressed, the signal OUT terminal voltage we read is the volt
 
 <span style="background:#ff0;color:#000">In this tutorial, we use KidsBlock Desktop version 2.0.1</span>
 
-The code file 3.6AD_key.sb3 is provided in *2. Download code*, please download it.
+The code file 3.6AD_key.sb3  can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ![2604](media/2604.png)
 
@@ -826,7 +826,7 @@ Its hardware control circuit of the sensor is buried in the root of the crop to 
 
 <span style="background:#ff0;color:#000">In this tutorial, we use KidsBlock Desktop version 2.0.1</span>
 
-The code file 3.7Soil_Humidity_Sensor.sb3 is provided in *2. Download code*, please download it.
+The code file 3.7Soil_Humidity_Sensor.sb3  can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ![2703](media/2703.png)
 
@@ -922,7 +922,7 @@ It mainly utilizes the principle of current amplification of the triode: when th
 
 <span style="background:#ff0;color:#000">In this tutorial, we use KidsBlock Desktop version 2.0.1</span>
 
-The code file 3.8Water_Level_Sensor.sb3 is provided in *2. Download code*, please download it.
+The code file 3.8Water_Level_Sensor.sb3  can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ![2803](media/2803.png)
 
@@ -1019,7 +1019,7 @@ The relay, compatible with multiple microcontroller control boards, is an "autom
 
 <span style="background:#ff0;color:#000">In this tutorial, we use KidsBlock Desktop version 2.0.1</span>
 
-The code file 3.9Relay.sb3 is provided in *2. Download code*, please download it.
+The code file 3.9Relay.sb3  can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ![2905](media/2905.png)
 
@@ -1212,7 +1212,7 @@ To drive a passive buzzer with a square wave of 200 to 5000 Hz, the Hz of the sq
 
 <span style="background:#ff0;color:#000">In this tutorial, we use KidsBlock Desktop version 2.0.1</span>
 
-The code file 3.11Passive_buzzer.sb3 is provided in *2. Download code*, please download it.
+The code file 3.11Passive_buzzer.sb3  can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ![21104](media/21104.png)
 
@@ -1297,7 +1297,7 @@ The ultraviolet sensor utilizes a photosensitive element to convert the UV signa
 
 <span style="background:#ff0;color:#000">In this tutorial, we use KidsBlock Desktop version 2.0.1</span>
 
-The code file 3.12Ultraviolet.sb3 is provided in *2. Download code*, please download it.
+The code file 3.12Ultraviolet.sb3  can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ![21203](media/21203.png)
 
@@ -1383,7 +1383,7 @@ The photosensitive module detects the ambient light value and the PIR motion sen
 
 <span style="background:#ff0;color:#000">In this tutorial, we use KidsBlock Desktop version 2.0.1</span>
 
-The code file 5.1Energy-efficient_Lighting.sb3 is provided in *2. Download code*, please download it.
+The code file 5.1Energy-efficient_Lighting.sb3 can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ![4104](media/4104.png)
 
@@ -1444,7 +1444,7 @@ In this project, we are going to make a simple plant light. Turn on the visible 
 
 <span style="background:#ff0;color:#000">In this tutorial, we use KidsBlock Desktop version 2.0.1</span>
 
-The code file 5.2Plant_Light.sb3 is provided in *2. Download code*, please download it.
+The code file 5.2Plant_Light.sb3 can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ![4204](media/4204.png)
 
@@ -1493,7 +1493,7 @@ Greenhouse is a frequently used production method in recent modern agriculture, 
 
 <span style="background:#ff0;color:#000">In this tutorial, we use KidsBlock Desktop version 2.0.1</span>
 
-The code file 5.3Environmental_monitoring.sb3 is provided in *2. Download code*, please download it.
+The code file 5.3Environmental_monitoring.sb3 can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ![4304](media/4304.png)
 
@@ -1661,7 +1661,7 @@ Monitoring the water level in a reservoir is important in agricultural automatio
 
 <span style="background:#ff0;color:#000">In this tutorial, we use KidsBlock Desktop version 2.0.1</span>
 
-The code file 5.5Water_level_monitoring.sb3 is provided in *2. Download code*, please download it.
+The code file 5.5Water_level_monitoring.sb3 can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ![4504](media/4504.png)
 
@@ -1721,7 +1721,7 @@ The realization of soil moisture monitoring technology is crucial in the realiza
 
 <span style="background:#ff0;color:#000">In this tutorial, we use KidsBlock Desktop version 2.0.1</span>
 
-The code file 5.6Soil_humidity_monitor.sb3 is provided in *2. Download code*, please download it.
+The code file 5.6Soil_humidity_monitor.sb3 can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ![4604](media/4604.png)
 
@@ -1794,7 +1794,7 @@ Now, let's design a simple irrigation system!
 
 <span style="background:#ff0;color:#000">In this tutorial, we use KidsBlock Desktop version 2.0.1</span>
 
-The code file 5.7Irrigation_system.sb3 is provided in *2. Download code*, please download it.
+The code file 5.7Irrigation_system.sb3 can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ![4704](media/4704.png)
 
@@ -1942,7 +1942,7 @@ Water in the water wheel pool returns to the reservoir.
 
 <span style="background:#ff0;color:#000">In this tutorial, we use KidsBlock Desktop version 2.0.1</span>
 
-The code file 5.8Driving_water_wheel.sb3 is provided in *2. Download code*, please download it.
+The code file 5.8Driving_water_wheel.sb3 can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ![4817](media/4817.png)
 
@@ -1994,7 +1994,7 @@ In this project, we will combine the previous projects to make an  integrated pr
 
 <span style="background:#ff0;color:#000">In this tutorial, we use KidsBlock Desktop version 2.0.1</span>
 
-The code file 5.9Comprehensive_experiment.sb3 is provided in *2. Download code*, please download it.
+The code file 5.9Comprehensive_experiment.sb3 can be downloaded in the directory *Download Code*, please download it by yourself.
 
 ![4903](media/4903.png)
 
