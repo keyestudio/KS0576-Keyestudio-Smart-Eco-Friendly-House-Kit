@@ -5,6 +5,7 @@
 
    README.md
    docs/index.md
+   docs/Product_Assembly.md
    docs/1.Arduino Tutorial/Arduino Tutorial.md
    docs/2.KidsBlock/KidsBlock.md
 
