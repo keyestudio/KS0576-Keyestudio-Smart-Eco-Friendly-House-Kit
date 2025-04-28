@@ -2717,7 +2717,7 @@ detected at this time.
 4. Product Assembly
 -------------------
 
-`Product_Assembly <../Product_Assembly.rst>`
+:download:`Product_Assembly <../Product_Assembly.rst>`
 
 --------------
 
