@@ -2080,8 +2080,8 @@ detected at this time.
 
 4. Product Assembly
 -------------------
-.._target-name:
-Product_Assembly
+
+:ref:`Product-Assembly`
 
 --------------
 
