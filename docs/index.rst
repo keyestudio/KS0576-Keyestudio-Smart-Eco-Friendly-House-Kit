@@ -171,7 +171,7 @@ Kit List
    +-----------------+-----------------+-----------------+-----------------+
    | 37              | |Cross wrench|  | Wrench          | 1               |
    +-----------------+-----------------+-----------------+-----------------+
-   | 38              ||plastic_strapping|| Plastic String  | 2               |
+   | 38              | |image1|        | Plastic String  | 2               |
    +-----------------+-----------------+-----------------+-----------------+
    | 39              | |Tube|          | Tube            | 1               |
    +-----------------+-----------------+-----------------+-----------------+
@@ -354,5 +354,5 @@ https://www.arduino.cc/
 .. |screwdriver| image:: media/screwdriver.png
 .. |screwdriver2| image:: media/screwdriver2.png
 .. |Cross wrench| image:: media/Crosswrench.png
-.. |plastic_strapping| image:: media/plastic_strapping.jpg
+.. |image1| image:: media/plastic.jpg
 .. |Tube| image:: media/Tube.jpg
