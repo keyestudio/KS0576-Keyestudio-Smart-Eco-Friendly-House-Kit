@@ -20,9 +20,8 @@ Arduino Tutorial
 .. image:: media/01.png
    :alt: 01
 
-3. **Please download the libraries first:
+3. Please download the libraries first:
 :download:`Libraries <./Libraries.zip>`
-
    `How to install
    libraries <https://getting-started-with-arduino.readthedocs.io/en/latest/Arduino%20IDE%20Tutorial.html#import-library>`__
 
