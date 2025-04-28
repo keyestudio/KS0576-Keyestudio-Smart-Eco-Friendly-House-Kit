@@ -12,7 +12,7 @@
 
 ![01](media/01.png)
 
-3. **Please download the libraries first ：**[Libraries](../Libraries.zip)
+3. **Please download the libraries first ：**[Libraries](./Libraries.zip)
 
    [How to install libraries](https://getting-started-with-arduino.readthedocs.io/en/latest/Arduino%20IDE%20Tutorial.html#import-library)
 
@@ -32,7 +32,7 @@
 
 ## 2. Download code
 
-[Arduino Code](../Arduino_Code.zip)
+Please download the code :[ArduinoCode](./ArduinoCode.7z)
 
 ---
 
@@ -3094,7 +3094,7 @@ Water in the water wheel pool returns to the reservoir.
 
 #### Wiring Diagram
 
-![21003](media/21003.png)
+![image-20250411081816424](media/image-20250411081816424.png)
 
 
 

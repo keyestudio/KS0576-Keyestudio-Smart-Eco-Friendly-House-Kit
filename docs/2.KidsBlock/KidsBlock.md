@@ -52,7 +52,9 @@ Interface：
 
 ## 2. Download code
 
-[KidsBlock Code](../KidsBlock_Code.zip)
+Please download the code:
+
+[KidsBlockCode](./KidsBlockCode.7z)
 
 ---
 
@@ -1936,7 +1938,7 @@ Water in the water wheel pool returns to the reservoir.
 
 #### Wiring Diagram
 
-![21003](media/21003.png)
+![21003](media/image-20250411081816424-17453685032541.png)
 
 #### Test Code
 
